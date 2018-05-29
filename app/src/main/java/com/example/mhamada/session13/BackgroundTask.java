@@ -21,7 +21,7 @@ import java.util.ArrayList;
 public class BackgroundTask {
     ArrayList<Contact>arrayList=new ArrayList<>();
     Context context;
-    String url="http://192.168.1.3/Recyclerview";
+    String url="http://192.168.1.4/task2";
     BackgroundTask(Context context){
         this.context=context;
     }
